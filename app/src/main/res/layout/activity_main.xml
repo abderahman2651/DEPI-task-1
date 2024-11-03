@@ -53,7 +53,7 @@
 
         >
         <TextView
-            android:padding="12dp"
+            android:paddingLeft="10dp"
             android:layout_marginRight="8dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -62,7 +62,6 @@
             android:textSize="20dp"
             />
         <TextView
-            android:padding="12dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Abderahman Mahmoud "
@@ -79,7 +78,7 @@
         android:textSize="20dp"
         />
     <TextView
-        android:padding="12dp"
+        android:paddingLeft="12dp"
         android:layout_marginTop="16dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
